@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DLAdPictureView
 
 [![CI Status](http://img.shields.io/travis/yesencai@163.com/DLAdPictureView.svg?style=flat)](https://travis-ci.org/yesencai@163.com/DLAdPictureView)
@@ -27,3 +28,7 @@ yesencai@163.com, yesencai@163.com
 ## License
 
 DLAdPictureView is available under the MIT license. See the LICENSE file for more info.
+=======
+# AdPictureView
+所有滑动的广告页面
+>>>>>>> a588d157fbcae8dbda5256caed309796dba4cb1a
