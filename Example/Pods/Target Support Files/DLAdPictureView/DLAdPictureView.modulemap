@@ -1,0 +1,6 @@
+framework module DLAdPictureView {
+  umbrella header "DLAdPictureView-umbrella.h"
+
+  export *
+  module * { export * }
+}

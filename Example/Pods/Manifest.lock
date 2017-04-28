@@ -1,0 +1,21 @@
+PODS:
+  - DLAdPictureView (0.1.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - DLAdPictureView (from `../`)
+  - SDWebImage (~> 4.0.0)
+
+EXTERNAL SOURCES:
+  DLAdPictureView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DLAdPictureView: 89c29d2cc46db720a96ac924b351c13af158e5d4
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: dedb69fe500533fb0a1071c53607c3dc0f9eef3e
+
+COCOAPODS: 1.2.1

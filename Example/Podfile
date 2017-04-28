@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'DLAdPictureView_Example' do
   pod 'DLAdPictureView', :path => '../'
+  pod 'SDWebImage', '~> 4.0.0'
 
   target 'DLAdPictureView_Tests' do
     inherit! :search_paths
